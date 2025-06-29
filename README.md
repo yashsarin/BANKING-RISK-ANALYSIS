@@ -1,4 +1,6 @@
-🏦 # BANKING-RISK-ANALYSIS
+# BANKING-RISK-ANALYSIS
+
+🏦 BANKING-RISK-ANALYSIS
 This project aims to develop a foundational understanding of risk analytics in the banking and financial sector. It showcases how data-driven insights can help minimize the risk of financial losses when lending to customers.
 
 📌 Problem Statement
